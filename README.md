@@ -1,4 +1,4 @@
 # python
 first repositary
 <br>
-author-Alish Neupane
+author-Alish Neupane -(python developer)
